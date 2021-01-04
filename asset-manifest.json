@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-rsvp/static/css/main.78f85937.chunk.css",
+    "main.js": "/react-rsvp/static/js/main.a12a1b9f.chunk.js",
+    "main.js.map": "/react-rsvp/static/js/main.a12a1b9f.chunk.js.map",
+    "runtime-main.js": "/react-rsvp/static/js/runtime-main.774ff577.js",
+    "runtime-main.js.map": "/react-rsvp/static/js/runtime-main.774ff577.js.map",
+    "static/js/2.c5eb2ac2.chunk.js": "/react-rsvp/static/js/2.c5eb2ac2.chunk.js",
+    "static/js/2.c5eb2ac2.chunk.js.map": "/react-rsvp/static/js/2.c5eb2ac2.chunk.js.map",
+    "index.html": "/react-rsvp/index.html",
+    "static/css/main.78f85937.chunk.css.map": "/react-rsvp/static/css/main.78f85937.chunk.css.map",
+    "static/js/2.c5eb2ac2.chunk.js.LICENSE.txt": "/react-rsvp/static/js/2.c5eb2ac2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-rsvp/static/media/header-bg.1d217543.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.774ff577.js",
+    "static/js/2.c5eb2ac2.chunk.js",
+    "static/css/main.78f85937.chunk.css",
+    "static/js/main.a12a1b9f.chunk.js"
+  ]
+}
